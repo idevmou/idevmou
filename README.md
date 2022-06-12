@@ -26,7 +26,7 @@ Skills: HTML / CSS / JS / BOOTSTRAP / ANGULAR / C / JAVA / FIGMA / ADOBE XD / GI
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=idevmou)  
 
-![GitHub metrics](https://git-stars.com/user/idevmou)  
+![GitHub stars](https://git-stars.com/user/idevmou)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=idevmou)  
 
