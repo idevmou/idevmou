@@ -31,3 +31,5 @@ Skills: HTML / CSS / JS / BOOTSTRAP / ANGULAR / C / JAVA / FIGMA / ADOBE XD / GI
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=idevmou)  
 
 ![Profile views](https://gpvc.arturio.dev/idevmou)  
+
+[![Check out idevmou's profile on stardev.io](https://stardev.io/developers/idevmou/badge/languages/global.svg)](https://stardev.io/developers/idevmou)
