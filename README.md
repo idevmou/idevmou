@@ -33,3 +33,5 @@ Skills: HTML / CSS / JS / BOOTSTRAP / ANGULAR / C / JAVA / FIGMA / ADOBE XD / GI
 ![Profile views](https://gpvc.arturio.dev/idevmou)  
 
 [![Check out idevmou's profile on stardev.io](https://stardev.io/developers/idevmou/badge/languages/global.svg)](https://stardev.io/developers/idevmou)
+
+[![Check out idevmou's profile on stardev.io]](https://git-stars.com/user/idevmou)
