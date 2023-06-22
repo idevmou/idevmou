@@ -9,7 +9,7 @@ Skills: HTML / CSS / JS / BOOTSTRAP / ANGULAR / C / JAVA / FIGMA / ADOBE XD / GI
 - 🌱 I’m currently learning JAVA / JUNIT / ANGULAR  
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 💬 Ask me about HTML / CSS / JS / BOOTSTRAP / ANGULAR / C / JAVA / FIGMA / ADOBE XD / GIT 
-- 📫 How to reach me: moulisankar2002@outlook.com 
+- 📫 How to reach me: moulisk37@gmail.com
 - 😄 Pronouns: idevmou 
 - ⚡ Fun fact: I am Funny 
 - 😍 Contact <a href="mailto:moulisk37@gmail.com">Admin</a>
